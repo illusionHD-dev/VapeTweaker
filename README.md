@@ -4,9 +4,9 @@
 
 
 # What is this?
--Little project to fix things I find annoying in vape.
+-Fork of Floorzeys 'VapeTweakerForRoblox'.
 
--I will try my best to keep this as a high quality custom.
+-A high quality vape custom.
 
 # Loader
 
@@ -17,5 +17,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/illusionHD-dev/VapeTw
 # Credits
 
 7GrandDadPGN (Vape Owner)
+Floorzey (VapeTweakerforRoblox Owner)
 
 Vanilla Roblox Vape: https://7granddadpgn.github.io
+Original Vapetweaker: https://github.com/Floorzey/VapeTweakerForRoblox
