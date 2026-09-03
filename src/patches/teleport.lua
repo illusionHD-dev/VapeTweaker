@@ -52,7 +52,7 @@ return function(ctx)
 	if not ok then encoded = '{}' end
 
 	local loaderurl = tostring(
-		cfg.base or 'https://raw.githubusercontent.com/illusionHD-dev/VapeTweaker/main'
+	cfg.base or 'https://raw.githubusercontent.com/illusionHD-dev/VapeTweaker/main'
 	):gsub('/+$', '')..'/loader.lua'
 
 	local source = string.format([[
